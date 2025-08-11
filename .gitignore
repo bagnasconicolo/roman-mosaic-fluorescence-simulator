@@ -46,15 +46,15 @@ Thumbs.db
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Images (except sample)
+# Images (except examples)
 *.jpg
 *.jpeg
 *.png
 *.gif
 *.bmp
 *.tiff
-!sample_images/
 !examples/
+!examples/**/*
 
 # Data files
 *.csv

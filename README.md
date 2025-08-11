@@ -51,6 +51,15 @@ python mosaic_fluorescence.py --src path/to/image.jpg --out output_directory
 python mosaic_fluorescence_gif.py --src path/to/image.jpg --out output_directory
 ```
 
+### Example
+
+To see the simulator in action, check out the example results:
+```bash
+python mosaic_fluorescence_gif.py --src examples/input_images/kaliumkalziumglas01w.jpg --out my_results
+```
+
+See the `examples/` folder for sample input and complete output files.
+
 ## Output Files
 
 The simulator generates various output files:
